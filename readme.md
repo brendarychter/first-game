@@ -5,3 +5,4 @@ Pantalla de game over con:
 	Volver a jugar
 	Ir a menú
 Sonidos y música
+Fix del contador de puntos
